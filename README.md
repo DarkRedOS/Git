@@ -1,5 +1,6 @@
 # Git
 Cooking something
 
+Brewing something
 
-Hehe boi, brewing something
+Something big is on the horizon
